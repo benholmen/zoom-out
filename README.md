@@ -11,7 +11,7 @@ I likely won't push this to the Chrome web store (Zoom™) but you can install i
 ```sh
 git clone git@github.com:benholmen/zoom-out.git [/sensible/local/path/zoom-out]
 ```
-2. Open Google Chrome extensions page [chrome://extensions/](chrome://extensions/)
+2. Open Google Chrome extensions page <a href="chrome://extensions/">chrome://extensions/</a>
 3. Enable Developer Mode
 4. Click Load Unpacked
 5. Choose the folder you selected
